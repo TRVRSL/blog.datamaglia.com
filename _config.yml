@@ -1,0 +1,16 @@
+# Site settings
+title: Datamaglia Blog
+email: wlyon@datamaglia.com
+description: "Thoughts on recommender systems, machine learning, and software development."
+baseurl: ""
+url: "http://blog.datamaglia.com"
+twitter_username: datamaglia
+github_username:  trvrsl
+# facebook_username:  IronSummitMedia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
